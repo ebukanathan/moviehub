@@ -1,0 +1,19 @@
+.card{
+    display:flex;
+    flex-direction: column;
+    width: 200px;
+    background-color: rgb(16, 15, 15);
+    padding: 5px;
+    margin-bottom: 8px;
+    color:white;
+    margin-right: 5px;
+}
+
+.card:hover{
+    background-color: azure;
+    color:black
+}
+
+.card-info{
+    font-size: 0.8rem;
+}
